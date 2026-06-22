@@ -1,5 +1,4 @@
-# data-sciene_group-work_online-reatail-data
-Data Science project on online retail purchase prediction.
+### data-sciene_group-work_online-reatail-data
 
 # Online Retail – Data Science Gruppenprojekt
 
