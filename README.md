@@ -23,4 +23,4 @@ Die Analyse gliedert sich in vier Notebooks:
 - Pia Liebhart
 - Janine Lenz
 - Leatitia Allegra
-- Madeleine Romppel
+- Magdalena Rosenauer
