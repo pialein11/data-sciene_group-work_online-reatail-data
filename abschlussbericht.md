@@ -1,5 +1,15 @@
 # Abschlussbericht – Online Retail Data Science Projekt
 
+## Gruppenmitglieder
+
+| Name |
+|------|
+| Magdalena Strobl |
+| Pia Liebhart |
+| Janine Lenz |
+| Leatitia Allegra |
+| Madeleine Romppel |
+
 ## 1. Projektübersicht
 
 Dieses Projekt analysiert den **Online Retail Transaktionsdatensatz** (UCI / Sakar et al., 2019) und wendet verschiedene Machine-Learning-Verfahren an, um Kundenverhalten zu verstehen und vorherzusagen. Die Analyse gliedert sich in vier Schritte:
@@ -151,4 +161,3 @@ Für dieses Projekt wurden Large Language Models (Claude von Anthropic) unterst�
 - **Formulierung von Kommentaren und Dokumentation**
 
 Alle generierten Code-Abschnitte wurden von allen Gruppenmitgliedern verstanden, überprüft und bei Bedarf angepasst. Die inhaltlichen Entscheidungen (Wahl der Features, ML-Strategie, Interpretation der Ergebnisse) wurden eigenständig getroffen.
-
