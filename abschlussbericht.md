@@ -8,7 +8,7 @@
 | Pia Liebhart |
 | Janine Lenz |
 | Leatitia Allegra |
-| Madeleine Romppel |
+| Magdalena Rosenauer |
 
 ## 1. Projektübersicht
 
